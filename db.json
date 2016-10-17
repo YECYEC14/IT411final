@@ -1,22 +1,17 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
-      ],
-      "gender": "male",
+      "name": "",
+      "numb": "",
+      "room": [],
+      "pay": "",
+      "amount": "",
+      "gender": "",
+      "comment": "",
+      "mm": "",
+      "dd": "",
+      "yy": "",
       "id": 1
-    },
-    {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
-      ],
-      "gender": "male",
-      "id": 4
     }
   ]
 }
